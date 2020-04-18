@@ -15,9 +15,9 @@ lower-line이 upper-line 보다 더 길어 보인다면 L key를 누른다.
 
 1 session은 lower-line이 wing이 없는 형태,
 
-2 session은 lower-line의 wing이 outward로 있는 형태,
+2 session은 lower-line의 wing이 inward로 있는 형태,
 
-3 session은 lower-line의 wing이 inward로 있는 형태이다.
+3 session은 lower-line의 wing이 outward로 있는 형태이다.
 
 # 실험
 
